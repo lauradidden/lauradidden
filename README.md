@@ -1,11 +1,5 @@
 ## 👩🏻‍💻 Data Projects
 
-### 📊 Interactive Process Visualization (Master Thesis)
-**Developing an interactive visualization to guide process analysts during exploratory analysis**  
-🔗 [View Repository](#) <!-- Replace # with your actual repo link -->
-
----
-
 ### 🫀 Heart Failure Risk Detection from ECGs - Catharina Hospital Eindhoven
 **Predictive machine learning on ECG data for early-stage heart failure detection**  
 📰 [Read Article](https://app.fruitpunch.ai/article/2022/10/03/can-ai-detect-the-risk-of-heart-failure-from-ecgs)
