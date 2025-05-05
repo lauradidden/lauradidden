@@ -12,7 +12,7 @@
 
 ---
 
-### 💡 Real-Time Object Detection & Smart Lighting | Team IGNITE | Stichting Woonbedrijf
+### 💡 Real-Time Object Detection & Smart Lighting | Team IGNITE 
 **Real-time object detection and tracking system to control programmable lighting based on human behavior**  
 📰 [Read Article](https://www.cursor.tue.nl/en/news/2024/oktober/week-2/ignite-builds-sun-for-international-students/)  
 🔗 [View Repository](https://github.com/lauradidden/Interactive-Lighting-Project)
