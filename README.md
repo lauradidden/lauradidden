@@ -21,6 +21,6 @@
 ### 💡 Real-Time Object Detection & Smart Lighting
 **Real-time object detection and tracking system to control programmable lighting based on human behavior**  
 📰 [Read Article](https://www.cursor.tue.nl/en/news/2024/oktober/week-2/ignite-builds-sun-for-international-students/)  
-🔗 [View Repository](#) <!-- Replace # with your actual repo link -->
+🔗 [View Repository](https://github.com/lauradidden/Interactive-Lighting-Project)
 
 ---
