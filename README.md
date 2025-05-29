@@ -1,7 +1,7 @@
 ## 👩🏻‍💻 Data Projects
 
-### 📊 Interactive Process Visualization Dash App | Master Thesis
-**Developing an interactive visualization to guide process analysts during exploratory analysis.**  
+### 📊 Interactive Process Visualization | Master Thesis
+**Developing an interactive visualization to guide process analysts during exploratory analysis. (In progress)**  
 🔗 [View Repository](https://github.com/lauradidden/Master-Thesis.git) 
 
 ---
