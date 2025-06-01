@@ -1,8 +1,8 @@
 ## 👩🏻‍💻 Data Projects
 
-### 📊 Interactive Process Visualization | Master Thesis (In Progress)
-**Developing an interactive visualization to guide process analysts during exploratory analysis.**  
-🔗 [View Repository](https://github.com/lauradidden/Master-Thesis.git) 
+### 🏦 Loan Application Analysis | BPI Challenge 2017  
+**Exploring loan application behavior in the BPI challenge 2017 process log using a random forest model and Power BI.**  
+🔗 [View Repository](https://github.com/lauradidden/BPI-2017-Loan-Prediction)
 
 ---
 
@@ -10,6 +10,12 @@
 **Real-time object detection and tracking system to control programmable lighting based on human behavior.**  
 📰 [Read Article](https://www.cursor.tue.nl/en/news/2024/oktober/week-2/ignite-builds-sun-for-international-students/)  
 🔗 [View Repository](https://github.com/lauradidden/Interactive-Lighting-Project.git)
+
+---
+
+### 📊 Interactive Process Visualization | Master Thesis (In Progress)
+**Developing an interactive visualization to guide process analysts during exploratory analysis.**  
+🔗 [View Repository](https://github.com/lauradidden/Master-Thesis.git) 
 
 ---
 
