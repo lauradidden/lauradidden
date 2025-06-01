@@ -1,7 +1,7 @@
 ## 👩🏻‍💻 Data Projects
 
-### 📊 Interactive Process Visualization | Master Thesis
-**Developing an interactive visualization to guide process analysts during exploratory analysis. (In progress)**  
+### 📊 Interactive Process Visualization | Master Thesis (In Progress)
+**Developing an interactive visualization to guide process analysts during exploratory analysis.**  
 🔗 [View Repository](https://github.com/lauradidden/Master-Thesis.git) 
 
 ---
@@ -13,14 +13,14 @@
 
 ---
 
-### 🫀 Heart Failure Risk Detection from ECGs | Fruitpunch AI | Catharina Hospital Eindhoven
-**Predictive machine learning on ECG data for early-stage heart failure detection.**  
-📰 [Read Article](https://www.fruitpunch.ai/blog/can-ai-detect-heart-failure-from-electrocardiograms)
-
----
-
 ### 👶🏻 Neonatal Sepsis Prediction | Fruitpunch AI | UMC Utrecht
 **Time-series XGBoost model to predict neonatal sepsis 12 hours in advance.**  
 📰 [Read Article](https://medium.com/fruitpunchai/how-we-applied-ai-to-prevent-sepsis-in-preterm-babies-53ad39d8ae7d)
+
+---
+
+### 🫀 Heart Failure Risk Detection from ECGs | Fruitpunch AI | Catharina Hospital Eindhoven
+**Predictive machine learning on ECG data for early-stage heart failure detection.**  
+📰 [Read Article](https://www.fruitpunch.ai/blog/can-ai-detect-heart-failure-from-electrocardiograms)
 
 ---
