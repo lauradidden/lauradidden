@@ -13,12 +13,6 @@
 
 ---
 
-### 📊 Interactive Process Visualization | Master Thesis (In Progress)
-**Developing an interactive visualization to guide process analysts during exploratory analysis.**  
-🔗 [View Repository](https://github.com/lauradidden/Master-Thesis.git) 
-
----
-
 ### 👶🏻 Neonatal Sepsis Prediction | Fruitpunch AI | UMC Utrecht
 **Time-series XGBoost model to predict neonatal sepsis 12 hours in advance.**  
 📰 [Read Article](https://medium.com/fruitpunchai/how-we-applied-ai-to-prevent-sepsis-in-preterm-babies-53ad39d8ae7d)
