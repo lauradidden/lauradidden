@@ -3,7 +3,7 @@
 ### 🎓 Master’s Thesis | Process Mining Group
 **Framework for tracking and visualizing the effects of sequential queries in exploratory process analysis.**    
 
-🔗 [Launch Tutorial (Binder)](https://mybinder.org/v2/gh/lauradidden/Master-Thesis-Experiment/main?urlpath=%2Fdoc%2Ftree%2FTutorial_binder.ipynb)  
+🔗 [Launch Tutorial (Binder)](https://mybinder.org/v2/gh/lauradidden/Master-Thesis-Experiment/main?urlpath=%2Fdoc%2Ftree%2FTutorial_binder.ipynb) (IMPORTANT: run the first cell once, then restart the kernel and run everything)   
 💻 [View Repository](https://github.com/lauradidden/Master-Thesis-Experiment)
 
 ---
